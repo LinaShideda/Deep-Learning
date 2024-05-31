@@ -1,7 +1,5 @@
 # Deep Learning 
 
-Sure, here's a rewritten version:
-
 This repository hosts files related to a project involving the development of a Convolutional Neural Network (CNN) mood classifier. It includes the CNN model itself along with the real-time implementation of the mood model using a webcam.
 
 The main Python script encompasses both the model implementation and facial recognition functionalities. Users have the option to save their faces as reference images, enabling the model to recognize them in subsequent sessions. 
